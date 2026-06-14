@@ -41,7 +41,7 @@ Utilytics/
 4. Refresh the dashboard.
 5. Explore the visual reports and KPIs.
 
-## Use Cases
+## Applications
 - Smart Facility Management
 - Utility Consumption Monitoring
 - Sustainability Reporting
