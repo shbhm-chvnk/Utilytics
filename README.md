@@ -1,7 +1,7 @@
 # Utilytics: A Smart Utility Consumption Monitoring Platform
 
 ## Overview
-Utilytics is a Utility Consumption Monitoring Platform designed to analyze and visualize electricity, water, and gas usage patterns. The dashboard helps organizations identify consumption trends, improve operational efficiency, and support sustainability initiatives through data-driven utility management.
+Utilytics is a Utility Consumption Monitoring Platform designed to analyze and visualize electricity, water, and gas usage patterns. The dashboard helps organizations identify consumption trends, improve operational efficiency, and support sustainability initiatives through data-driven utility management. 
 
 ## Key Features
 - Utility Consumption Monitoring (Electricity, Water & Gas)
