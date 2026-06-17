@@ -14,9 +14,9 @@ Utilytics is a Utility Consumption Monitoring Platform designed to analyze and v
 ```
 Utilytics/
 ├── dashboard/
-│ └── utilytics_dashboard.pbix
+│   └── utilytics_dashboard.pbix
 ├── data/
-│ └── energy_consumption_dataset.xlsx
+│   └── energy_consumption_dataset.xlsx
 └── README.md
 ```
 ## Technology Stack
